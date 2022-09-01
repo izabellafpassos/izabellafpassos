@@ -1,8 +1,25 @@
-### Oii meu nome é izabella sou desenvolvedora front-end 
-- 🌱 Estudando java 
-<!--
-**izabellafpassos/izabellafpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-Here are some ideas to get you started:
+## 💜 Olá, meu nome é <strong>{izabella}!</strong>
+
+> TENHO 20 ANOS E SOU ESTUDANTE FRONT-END
+
+🔭PROJETANDO UMA PAGINA NO MUNDO INVERTIDO 
+
+
+
+----
+
+## 🚀 Minhas Skills
+
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+
+---
+
+
 
 
 
