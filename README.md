@@ -1,12 +1,12 @@
 ### Oii meu nome é izabella sou desenvolvedora front-end 
-
+- 🌱 Estudando java 
 <!--
 **izabellafpassos/izabellafpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 Estudando java
-- 
+
+
+
 
 
 
