@@ -2,7 +2,7 @@
 
 <!--
 **izabellafpassos/izabellafpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/izabellafpassos/izabellafpassos/blob/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
